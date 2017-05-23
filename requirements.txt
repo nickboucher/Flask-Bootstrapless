@@ -1,0 +1,7 @@
+#
+# ############# pip3 Requirements File #############
+# Example usage: sudo pip3 install -r requirements.txt
+#
+flask
+flask-assets
+cssmin
